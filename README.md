@@ -47,7 +47,8 @@ $ git clone https://github.com/GuilhermeDogini/Auth-jwt.git
 
 ## Deploy
 
-Neste projeto estamos utilizando a ferramenta **Heroku**
+Neste projeto estamos utilizando a ferramenta **Heroku** :
+### Link da aplicação no Heroku : https://app-test-final.herokuapp.com
 
 
 ## Executando Local (se preferir, mas a mesma esta rodando na rede Heroku)
