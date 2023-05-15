@@ -65,11 +65,6 @@ $ npm run start
 ---
 
 
-```
-
-
-
-```
 ---
 
 ## Executando com o Postman
