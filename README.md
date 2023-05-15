@@ -96,6 +96,7 @@ Crie um projeto com o nome parecido a esse "API Auth JWT" e adicione as rotas a 
   {{URL}}/auth/register
   
   *É necessario utilizar o "body" com o filtro "Raw" e a linguagem JSON
+  *Pegue o id que vai aparecer na resposta do POSTMAN, será necessario para usar no método (Verificação de uma pessoa apena)
 
 ```
 
